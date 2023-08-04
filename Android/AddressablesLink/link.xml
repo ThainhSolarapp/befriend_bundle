@@ -4,9 +4,10 @@
     <type fullname="Game.Sticker.StickerAnimSyncComp" preserve="all" />
     <type fullname="Game.Sticker.StickerCompController" preserve="all" />
     <type fullname="Game.Sticker.StickerEffectComp" preserve="all" />
+    <type fullname="Game.Sticker.StickerData" preserve="nothing" serialized="true" />
+    <type fullname="Game.Sticker.StickerEffectComp/StickerEffectInfo" preserve="nothing" serialized="true" />
     <type fullname="Game.Sticker.StickerManager/StickerBoneInfo" preserve="nothing" serialized="true" />
     <type fullname="Game.Sticker.StickerManager/StickerSkeletonInfo" preserve="nothing" serialized="true" />
-    <type fullname="Game.Sticker.StickerEffectComp/StickerEffectInfo" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
